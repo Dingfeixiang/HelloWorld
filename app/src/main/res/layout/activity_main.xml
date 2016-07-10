@@ -9,5 +9,5 @@
         android:layout_height="200dip"
         android:gravity="center"
         android:background="@drawable/shape_yuan"
-        android:text="谁888888" />
+        android:text="dingfx8888" />
 </RelativeLayout>
